@@ -2,16 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.fomal.cc/posts/1401e6d1.html</loc>
-    
-    <lastmod>2023-03-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.fomal.cc/posts/dc7fb504.html</loc>
+    <loc>https://www.fomal.cc/posts/f79205ab.html</loc>
     
     <lastmod>2023-03-13</lastmod>
     
@@ -29,15 +20,6 @@
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/posts/da3e1361.html</loc>
-    
-    <lastmod>2023-03-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.fomal.cc/posts/54e1373e.html</loc>
     
     <lastmod>2023-03-13</lastmod>
@@ -47,7 +29,25 @@
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/posts/f79205ab.html</loc>
+    <loc>https://www.fomal.cc/posts/dc7fb504.html</loc>
+    
+    <lastmod>2023-03-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.fomal.cc/posts/1401e6d1.html</loc>
+    
+    <lastmod>2023-03-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.fomal.cc/posts/da3e1361.html</loc>
     
     <lastmod>2023-03-13</lastmod>
     
@@ -92,25 +92,7 @@
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/life/movies/index.html</loc>
-    
-    <lastmod>2023-03-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.fomal.cc/life/games/index.html</loc>
-    
-    <lastmod>2023-03-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.fomal.cc/personal/love/index.html</loc>
     
     <lastmod>2023-03-13</lastmod>
     
@@ -129,6 +111,24 @@
   
   <url>
     <loc>https://www.fomal.cc/life/music/index.html</loc>
+    
+    <lastmod>2023-03-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.fomal.cc/life/movies/index.html</loc>
+    
+    <lastmod>2023-03-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.fomal.cc/personal/love/index.html</loc>
     
     <lastmod>2023-03-13</lastmod>
     
@@ -164,6 +164,15 @@
   </url>
   
   <url>
+    <loc>https://www.fomal.cc/box/nav/index.html</loc>
+    
+    <lastmod>2023-03-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.fomal.cc/box/animation/index.html</loc>
     
     <lastmod>2023-03-13</lastmod>
@@ -174,15 +183,6 @@
   
   <url>
     <loc>https://www.fomal.cc/box/gallery/index.html</loc>
-    
-    <lastmod>2023-03-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.fomal.cc/box/nav/index.html</loc>
     
     <lastmod>2023-03-13</lastmod>
     
@@ -276,7 +276,35 @@
 
   
   <url>
+    <loc>https://www.fomal.cc/categories/Spring/</loc>
+    <lastmod>2023-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.fomal.cc/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
+    <lastmod>2023-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.fomal.cc/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/</loc>
+    <lastmod>2023-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.fomal.cc/categories/%E6%BC%94%E7%A4%BA/</loc>
+    <lastmod>2023-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.fomal.cc/categories/Java%E5%9F%BA%E7%A1%80/</loc>
     <lastmod>2023-03-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
