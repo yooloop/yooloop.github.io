@@ -3,11 +3,11 @@
   <title>青柠</title>
   
   
-  <link href="https://www.fomal.cc/atom.xml" rel="self"/>
+  <link href="https://www.yolop.cc/atom.xml" rel="self"/>
   
-  <link href="https://www.fomal.cc/"/>
+  <link href="https://www.yolop.cc/"/>
   <updated>2023-03-13T15:02:24.618Z</updated>
-  <id>https://www.fomal.cc/</id>
+  <id>https://www.yolop.cc/</id>
   
   <author>
     <name>Yolop</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>动态代理</title>
-    <link href="https://www.fomal.cc/posts/dc7fb504.html"/>
-    <id>https://www.fomal.cc/posts/dc7fb504.html</id>
+    <link href="https://www.yolop.cc/posts/dc7fb504.html"/>
+    <id>https://www.yolop.cc/posts/dc7fb504.html</id>
     <published>2023-03-13T09:32:02.000Z</published>
     <updated>2023-03-13T15:02:24.618Z</updated>
     
@@ -35,17 +35,17 @@
     
     
     
-    <category term="Spring" scheme="https://www.fomal.cc/categories/Spring/"/>
+    <category term="Spring" scheme="https://www.yolop.cc/categories/Spring/"/>
     
     
-    <category term="Spring" scheme="https://www.fomal.cc/tags/Spring/"/>
+    <category term="Spring" scheme="https://www.yolop.cc/tags/Spring/"/>
     
   </entry>
   
   <entry>
     <title>Mysql</title>
-    <link href="https://www.fomal.cc/posts/54e1373e.html"/>
-    <id>https://www.fomal.cc/posts/54e1373e.html</id>
+    <link href="https://www.yolop.cc/posts/54e1373e.html"/>
+    <id>https://www.yolop.cc/posts/54e1373e.html</id>
     <published>2023-03-13T06:18:26.000Z</published>
     <updated>2023-03-13T15:02:37.009Z</updated>
     
@@ -63,17 +63,17 @@
     
     
     
-    <category term="数据库" scheme="https://www.fomal.cc/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    <category term="数据库" scheme="https://www.yolop.cc/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
     
     
-    <category term="Mysql" scheme="https://www.fomal.cc/tags/Mysql/"/>
+    <category term="Mysql" scheme="https://www.yolop.cc/tags/Mysql/"/>
     
   </entry>
   
   <entry>
     <title>Servlet</title>
-    <link href="https://www.fomal.cc/posts/1401e6d1.html"/>
-    <id>https://www.fomal.cc/posts/1401e6d1.html</id>
+    <link href="https://www.yolop.cc/posts/1401e6d1.html"/>
+    <id>https://www.yolop.cc/posts/1401e6d1.html</id>
     <published>2023-03-13T06:18:17.000Z</published>
     <updated>2023-03-13T15:02:12.987Z</updated>
     
@@ -88,17 +88,17 @@
     
     
     
-    <category term="Spring" scheme="https://www.fomal.cc/categories/Spring/"/>
+    <category term="Spring" scheme="https://www.yolop.cc/categories/Spring/"/>
     
     
-    <category term="Servlet" scheme="https://www.fomal.cc/tags/Servlet/"/>
+    <category term="Servlet" scheme="https://www.yolop.cc/tags/Servlet/"/>
     
   </entry>
   
   <entry>
     <title>Mybatis</title>
-    <link href="https://www.fomal.cc/posts/da3e1361.html"/>
-    <id>https://www.fomal.cc/posts/da3e1361.html</id>
+    <link href="https://www.yolop.cc/posts/da3e1361.html"/>
+    <id>https://www.yolop.cc/posts/da3e1361.html</id>
     <published>2023-03-13T06:18:03.000Z</published>
     <updated>2023-03-13T15:01:48.337Z</updated>
     
@@ -121,17 +121,17 @@
     
     
     
-    <category term="Spring" scheme="https://www.fomal.cc/categories/Spring/"/>
+    <category term="Spring" scheme="https://www.yolop.cc/categories/Spring/"/>
     
     
-    <category term="Mybatis" scheme="https://www.fomal.cc/tags/Mybatis/"/>
+    <category term="Mybatis" scheme="https://www.yolop.cc/tags/Mybatis/"/>
     
   </entry>
   
   <entry>
     <title>javaOOP</title>
-    <link href="https://www.fomal.cc/posts/e3465de0.html"/>
-    <id>https://www.fomal.cc/posts/e3465de0.html</id>
+    <link href="https://www.yolop.cc/posts/e3465de0.html"/>
+    <id>https://www.yolop.cc/posts/e3465de0.html</id>
     <published>2023-03-13T06:17:42.000Z</published>
     <updated>2023-03-13T15:03:03.133Z</updated>
     
@@ -147,17 +147,17 @@
     
     
     
-    <category term="Java基础" scheme="https://www.fomal.cc/categories/Java%E5%9F%BA%E7%A1%80/"/>
+    <category term="Java基础" scheme="https://www.yolop.cc/categories/Java%E5%9F%BA%E7%A1%80/"/>
     
     
-    <category term="javaOOP" scheme="https://www.fomal.cc/tags/javaOOP/"/>
+    <category term="javaOOP" scheme="https://www.yolop.cc/tags/javaOOP/"/>
     
   </entry>
   
   <entry>
     <title>c笔记</title>
-    <link href="https://www.fomal.cc/posts/f79205ab.html"/>
-    <id>https://www.fomal.cc/posts/f79205ab.html</id>
+    <link href="https://www.yolop.cc/posts/f79205ab.html"/>
+    <id>https://www.yolop.cc/posts/f79205ab.html</id>
     <published>2023-03-13T06:17:26.000Z</published>
     <updated>2023-03-13T15:03:10.918Z</updated>
     
@@ -173,17 +173,17 @@
     
     
     
-    <category term="计算机基础" scheme="https://www.fomal.cc/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/"/>
+    <category term="计算机基础" scheme="https://www.yolop.cc/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/"/>
     
     
-    <category term="C" scheme="https://www.fomal.cc/tags/C/"/>
+    <category term="C" scheme="https://www.yolop.cc/tags/C/"/>
     
   </entry>
   
   <entry>
     <title>Markdown语法与外挂标签写法汇总</title>
-    <link href="https://www.fomal.cc/posts/2013454d.html"/>
-    <id>https://www.fomal.cc/posts/2013454d.html</id>
+    <link href="https://www.yolop.cc/posts/2013454d.html"/>
+    <id>https://www.yolop.cc/posts/2013454d.html</id>
     <published>2022-08-09T10:19:03.000Z</published>
     <updated>2022-10-23T14:00:00.000Z</updated>
     
@@ -194,12 +194,12 @@
     
     
     
-    <category term="演示" scheme="https://www.fomal.cc/categories/%E6%BC%94%E7%A4%BA/"/>
+    <category term="演示" scheme="https://www.yolop.cc/categories/%E6%BC%94%E7%A4%BA/"/>
     
     
-    <category term="Markdown" scheme="https://www.fomal.cc/tags/Markdown/"/>
+    <category term="Markdown" scheme="https://www.yolop.cc/tags/Markdown/"/>
     
-    <category term="外挂标签" scheme="https://www.fomal.cc/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/"/>
+    <category term="外挂标签" scheme="https://www.yolop.cc/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/"/>
     
   </entry>
   
