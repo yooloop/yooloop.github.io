@@ -25,7 +25,7 @@ body:has(#anMusic-page) #an_music_bg {
 }
 
 body:has(#anMusic-page) {
-  background: rgb(13, 13, 13);
+  background: url('https://w.wallhaven.cc/full/gp/wallhaven-gp57kl.jpg');
 }
 
 #anMusic-page meting-js .aplayer {
