@@ -1,4 +1,3 @@
-/*音乐 start*/
 var anzhiyu = {
   // 音乐节目切换背景
   changeMusicBg: function (isChangeBg = true) {
@@ -54,4 +53,3 @@ var anzhiyu = {
 
 // 调用
 anzhiyu.changeMusicBg(false);
-/*end*/
