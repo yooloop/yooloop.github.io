@@ -5,7 +5,7 @@
   background: transparent !important;
 }
 #an_music_bg {
-  display: 0;
+  display: none;
   filter: blur(63px);
   opacity: 0.6;
   position: fixed;
@@ -25,7 +25,7 @@ body:has(#anMusic-page) #an_music_bg {
 }
 
 body:has(#anMusic-page) {
-  background: url('https://w.wallhaven.cc/full/gp/wallhaven-gp57kl.jpg');
+  background: rgb(13, 13, 13);
 }
 
 #anMusic-page meting-js .aplayer {
@@ -301,7 +301,6 @@ body:has(#anMusic-page) .aplayer .aplayer-info .aplayer-controller .aplayer-time
     mask-image: linear-gradient(to bottom, #000, #000, #000, #000, #0000, #0000);
   }
   #anMusic-page .aplayer-info .aplayer-lrc p.aplayer-lrc-current {
-    line-height: 20px;
     color: #33a673;
   }
   /* 控制按键和进度条 */
